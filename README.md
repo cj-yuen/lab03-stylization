@@ -21,6 +21,10 @@ The goal of each puzzle will be to replicate the look of each puzzle’s image.
    * Follow the tutorial to create a 2 band toon shader, and then create multiple materials based off of the shader graph
    * Attach those materials to the objects (the sphere and plane) in the default scene "Lab Scene 1" to produce a look similar to the one above!
 
+Screenshot Work:
+<img width="1506" height="752" alt="image" src="https://github.com/user-attachments/assets/0e1cdee6-63ee-40a3-8f93-93a738056277" />
+
+
 ### 2. Puzzle 2: Leveled-up toon shading
 
 <img width="677" alt="277998209-12d0a844-b6a8-4054-86f9-ee13b5533bf2" src="https://github.com/CIS-566-Fall-2023/lab05-stylization/assets/1758825/6b648f63-7317-40a6-96b7-d2de4405df28">
