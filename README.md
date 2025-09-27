@@ -33,6 +33,7 @@ Screenshot Result:
    * Shade the sonic and shadow receiving plane in "Lab Scene 2" to get a look similar to the one above!
 
 Screenshot Result:
+<img width="2256" height="1062" alt="image" src="https://github.com/user-attachments/assets/45708acb-81f7-4e24-914d-1fc75e2cce21" />
 
 
 ### 3. Puzzle 3: Stylized Shadow
