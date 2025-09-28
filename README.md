@@ -44,6 +44,7 @@ Screenshot Result:
    * Hint 1: What does the "ShadowAttenuation" variable do?
 
 Screenshot Result:
+<img width="2225" height="1022" alt="image" src="https://github.com/user-attachments/assets/9d2c9833-ab19-4226-b698-99a64d85ed8b" />
 
   
 Extra Credit:
